@@ -36,3 +36,29 @@
 .read-the-docs {
   color: #888;
 }
+
+.headshot {
+  height: 30em;
+}
+
+.demoPage {
+  background: white;
+  color: black;
+}
+
+.book-page {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background: white;
+}
+
+.book-image {
+  width: 100%;
+  height: stretch;
+}
+
+.review-page {
+  background: white;
+  color: black;
+}
